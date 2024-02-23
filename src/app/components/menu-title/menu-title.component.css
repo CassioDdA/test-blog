@@ -1,0 +1,17 @@
+.container-title{
+  color: beige;
+}
+
+.container-title > h1{
+  margin-top: 31px;
+  margin-bottom: 31px;
+  font-size: 100px;
+  font-family: 'Lucida Sans';
+  display: flex;
+  justify-content: center;
+}
+
+.container-title > hr{
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
